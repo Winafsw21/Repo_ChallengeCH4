@@ -1,0 +1,16 @@
+@media (min-width: 545px) and(max-1024px) {
+  .player {
+    top: 40px;
+    align-items: center;
+    width: 70%;
+  }
+  .nama1 {
+    top: 20%;
+    left: 100%;
+  }
+  .batuPlayer {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+  }
+}
